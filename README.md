@@ -1,4 +1,4 @@
-# Example peerDependencies
+# Example npm peerDependencies
 
 This repo is an example of peerDependencies in npm.
 
