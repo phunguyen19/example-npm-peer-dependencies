@@ -18,6 +18,13 @@ The `main_no_express_installed` package has a dependency of `pkg_express_3` and 
 
 The `main_installed_express_4` package has a dependency of `pkg_express_3` and has `express` installed with version `^4`. When we install the packages, it will throw an error because the `express` version is not compatible with the `pkg_express_3` package.
 
+Example tested with:
+
+```
+node: v18.10.0
+npm: 8.19.2
+```
+
 ## Compatible case
 
 Expecting the commands below run successfully
