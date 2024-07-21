@@ -25,7 +25,7 @@ node: v18.10.0
 npm: 8.19.2
 ```
 
-## Compatible case
+### Compatible case
 
 Expecting the commands below run successfully
 
@@ -35,7 +35,7 @@ npm i --install-links
 node .
 ```
 
-## Not compatible case with error
+### Not compatible case
 
 When express version is not compatible
 
